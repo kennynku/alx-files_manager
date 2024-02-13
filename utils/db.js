@@ -8,7 +8,7 @@ import envLoader from './env_loader';
  */
 class DBClient {
   /**
-   * Creates a new DBClient instance.
+   * Create a new DBClient instance.
    */
   constructor() {
     envLoader();
